@@ -1,5 +1,6 @@
 from turtle import *
 
+# code animation of corona virus
 speed(200)
 color('green')
 bgcolor('black')
